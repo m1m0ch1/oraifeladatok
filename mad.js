@@ -1,5 +1,5 @@
 function changeInnerHtml() {
-    document.getElementById("paragraf").innerHTML = "Zöld";
+    document.getElementById("paragraf").innerHTML = "zöld";
     let html = "<table  border = '1'>";
     for (let i = 1; i <= 10; i++) {
       html += "<tr>";
